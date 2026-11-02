@@ -76,3 +76,7 @@ src-tauri/src/          backend Rust (actions système, capture, Discord)
 src-tauri/src/actions/  micro, clavier, capture, raccourcis, médias
 src-tauri/src/capture/  échantillonnage des statistiques et des batteries
 ```
+
+## Licence
+
+Distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE).
